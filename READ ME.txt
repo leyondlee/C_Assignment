@@ -1,0 +1,2 @@
+To compile:
+cc -o skeleton4968_5758 skeleton4968_5758.c myutil4968_5758.c
